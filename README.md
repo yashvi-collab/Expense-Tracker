@@ -230,15 +230,6 @@ The application continuously checks the budget.
 - Convert the application into a Windows `.exe`
 - Develop a web or mobile version
 
-## SCREENSHOTS
-
-Add your application screenshots below.
-
-Example:
-
-![Expense Tracker Screenshot](screenshot1.png)
-
-![Expense Summary Screenshot](screenshot2.png)
 
 ## PROJECT OBJECTIVE
 
