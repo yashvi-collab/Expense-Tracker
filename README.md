@@ -230,6 +230,13 @@ The application continuously checks the budget.
 - Convert the application into a Windows `.exe`
 - Develop a web or mobile version
 
+## Screenshot
+<img width="537" height="857" alt="Screenshot 2026-09-17 222126" src="https://github.com/user-attachments/assets/814994d0-6717-424a-b7bc-68b0dd1b28f6" />
+<img width="637" height="860" alt="Screenshot 2026-09-17 222144" src="https://github.com/user-attachments/assets/1f45b3a4-c5b9-46cd-8ec6-ca324cb57a55" />
+<img width="612" height="857" alt="Screenshot 2026-09-17 222212" src="https://github.com/user-attachments/assets/733e7797-f515-4ce6-8c2b-18d4275e1daf" />
+<img width="593" height="881" alt="Screenshot 2026-09-17 222338" src="https://github.com/user-attachments/assets/b4d8c58a-b88c-4bfe-b9a1-4fb2f365ed7d" />
+<img width="1023" height="937" alt="Screenshot 2026-09-17 222804" src="https://github.com/user-attachments/assets/bd74afd6-29cf-4d6c-a477-6e5232374846" />
+<img width="557" height="857" alt="Screenshot 2026-09-17 222856" src="https://github.com/user-attachments/assets/509bf399-cf57-4098-8633-e74a4f41b05b" />
 
 ## PROJECT OBJECTIVE
 
